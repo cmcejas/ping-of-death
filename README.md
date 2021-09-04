@@ -2,6 +2,9 @@
 
 ## Warning I am not responsible for any damage done or accountable for the usage of this software! This is only for educational purposes.
 
+### Download
+ - click the .zip file and download
+
 ### How to use: 
 
 1.) open the dos.txt file it will read:
