@@ -4,8 +4,6 @@
 
 ### Download
  - click the releases button and download
- - download python
- - download subprocess with ``pip install subprocess`` bin the command line
-
+ - Run the installer
 ### How to use: 
-- run the python file
+- run the Ping of Death EXE created by the installer
