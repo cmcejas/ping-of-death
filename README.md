@@ -6,7 +6,8 @@
 - ping of death is a program made to knock a user offline using their ip address
 - it works by basically sending too much information to a computer that it cannot be handled
 
-### Download
+### Download 
+*only works on windows*
  - click the releases button and download the latest release
  - extract the zip folder
  - Run the installer
