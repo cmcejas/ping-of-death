@@ -1,4 +1,4 @@
-# ping-of-death
+# Ping of Death
 
 ## Warning I am not responsible for any damage done or accountable for the usage of this software! This is only for educational purposes.
 
