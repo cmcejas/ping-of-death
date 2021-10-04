@@ -8,3 +8,6 @@
  - Run the installer
 ### How to use: 
 - run the Ping of Death EXE created by the installer
+- enter the ip you want to knock offline
+- enter ``y`` to start
+- to stop pinging press <kbd>Ctrl</kbd> + <kbd>C</kbd>
