@@ -1,9 +1,8 @@
 # Ping of Death
 
-## Warning I am not responsible for any damage done or accountable for the usage of this software! This is only for educational purposes.
-
 ### What it is
 - ping of death is a program made to knock a user offline using their ip address
+- it is easy to use and can work effeciently
 - it works by basically sending too much information to a computer that it cannot be handled
 
 ### Download 
