@@ -6,7 +6,8 @@
 - it works by basically sending too much information to a computer that it cannot be handled
 
 ### Download 
-*only works on windows* may work on some operating systems with a few tweaks
+*only works on windows*
+may work on some operating systems with a few tweaks
  - click the releases button and download the latest release
  - extract the zip folder
  - Run the installer
